@@ -1,2 +1,2 @@
 # Projects
-Where i store oall py projects
+Where i store all my projects
